@@ -1,7 +1,7 @@
-import 'dart:io'; // Don't forget this for input/output operations!
+import 'dart:io';
 
 void main() {
-  print('--- Dart Assignment Solutions with User Input ---');
+  print('--- Dart Assignment Solutions with User Input by Muhammad Irfan---');
 
   // Helper function to safely get integer input
   int? getIntegerInput(String prompt) {
@@ -159,5 +159,5 @@ void main() {
     }
   }
 
-  print('\n--- All questions processed. ---');
+  print('\n--- All questions processed. Thanks---');
 }
